@@ -1,6 +1,6 @@
 
 ###  INFO 
-생각하는 만큼 변한다, 고민하는 개발자를 희망합니다
+고민하는 개발자를 희망합니다
 ### STACK
 JAVA,SPRING,SPRING_BOOT,ORALCE,MONGODB
 ### SIDE PROJECT
