@@ -2,9 +2,9 @@
 ### Hi there 👋
 INFO
 
-###STACK
+### STACK
 
-SIDE PROJECT
+### SIDE PROJECT
 
 
 
